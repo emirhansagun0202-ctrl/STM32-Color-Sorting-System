@@ -1,0 +1,22 @@
+# STM32CubeIDE / Eclipse Build Dosyaları
+/Debug/
+/Release/
+/.settings/
+.project
+.cproject
+
+# Derleme çıktıları ve geçici dosyalar
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# IDE Yapılandırmaları
+.vscode/
+.idea/
+*.launch
